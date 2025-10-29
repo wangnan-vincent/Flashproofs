@@ -53,3 +53,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+[Paillier Threshold Encryption Toolbox]
+Author(s): [James Garrity, Sean Hall]
+Source: [https://labs.utdallas.edu/dspl/files/2023/07/pailliersrc.zip]
+License: GNU General Public License v3.0
+Files referencing this GPL-licensed code:
+- Java/src/main/java/utils/RandGenerator.java
+
+The portions of this project derived from the above source are governed by the
+GNU General Public License v3.0 (GPLv3). A copy of the GPLv3 license text is
+included in the accompanying file LICENSE-GPL.txt and can also be found at:
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+When redistributing this software, any portions originating from GPL-licensed
+sources remain subject to the terms of the GNU GPL v3.0.
+-------------------------------------------------------------------------------
